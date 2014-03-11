@@ -10,5 +10,7 @@
     <string name="place_one">Place One</string>
     <string name="place_invalid">Place Invalid</string>
     <string name="place_two">Place Two</string>
+    <string name="no_location_text">Waiting for location...</string>
+    <string name="toast_repeatead_loc">You already have this location badge</string>
 
 </resources>
